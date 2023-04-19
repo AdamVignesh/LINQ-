@@ -1,0 +1,15 @@
+C:\Users\HP\source\repo\linq\linqTest\bin\Debug\net6.0\linqTest.exe
+C:\Users\HP\source\repo\linq\linqTest\bin\Debug\net6.0\linqTest.deps.json
+C:\Users\HP\source\repo\linq\linqTest\bin\Debug\net6.0\linqTest.runtimeconfig.json
+C:\Users\HP\source\repo\linq\linqTest\bin\Debug\net6.0\linqTest.dll
+C:\Users\HP\source\repo\linq\linqTest\bin\Debug\net6.0\linqTest.pdb
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\linqTest.csproj.AssemblyReference.cache
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\linqTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\linqTest.AssemblyInfoInputs.cache
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\linqTest.AssemblyInfo.cs
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\linqTest.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\linqTest.dll
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\refint\linqTest.dll
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\linqTest.pdb
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\linqTest.genruntimeconfig.cache
+C:\Users\HP\source\repo\linq\linqTest\obj\Debug\net6.0\ref\linqTest.dll
